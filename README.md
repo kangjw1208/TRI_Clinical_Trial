@@ -1,1 +1,1 @@
-# TRI_Clinical_Trial
+# TRI Clinical Trial
