@@ -13,4 +13,4 @@ Graph of mean score values
 This clinical trial is not safe to continue until further research is performed to determine the exact pathophysiological effects of this drug to our various organ systems.
 
 
-Click [here](https://public.tableau.com/app/profile/jeon.wook.kang/viz/ClinicalTrial_16536310396860/Dashboard1)
+Click [here](https://public.tableau.com/app/profile/jeon.wook.kang/viz/ClinicalTrial_16536310396860/Dashboard1) to go to Tableau Dashboard
